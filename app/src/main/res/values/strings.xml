@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">praktika_15_lobanov</string>
+    <string name="quest1">В Fortnite можно играть в одиночку, так и в команде?</string>
+    <string name="quest2">В Fortnite есть режим "Спасение мира"?</string>
+    <string name="quest3">Можно ли строить сооружения из различных материалов?</string>
+    <string name="quest4">Есть ли в Fortnite возможность использовать различные оружия?</string>
+    <string name="quest5">Можно ли получить победу, не убивая ни одного противника?</string>
+    <string name="quest6">В Fortnite есть специальные события и сезонные обновления?</string>
+    <string name="quest7">Можно ли играть в Fortnite на мобильных устройствах?</string>
+    <string name="quest8">Есть ли в Fortnite различные косметические предметы для персонажей?</string>
+    <string name="quest9">В игре Fortnite можно использовать транспортные средства?</string>
+    <string name="quest10">Нужно ли беймить после убийства?</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Верно</string>
+    <string name="incorrect_toast">Не верно</string>
+    <string name="questons">Вопрос</string>
+    <string name="pasw">Пароль</string>
+    <string name="log">Логин</string>
+    <string name="whod">Вход</string>
+</resources>
